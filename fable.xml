@@ -1,6 +1,9 @@
 <fable>
-	<page>
-  
-    
-  </page>
+    <states>
+        <state name="temChave" value="false"/>
+        <state name="portaAberta" value="false"/>
+        <state name="contador" value="0"/>
+    </states>
+    <page>
+    </page>
 </fable>
